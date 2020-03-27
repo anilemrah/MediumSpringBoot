@@ -3,16 +3,15 @@ package com.anilemrah.springboot.basicrestapi.controller;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
 
 import com.anilemrah.springboot.basicrestapi.entity.Car;
 
 // This class is going to be our REST Controller
 // We will reach the methods via /api/XYZ
-@RestController
-@RequestMapping("/api")
+@Controller
 public class BasicRestApiController {
 	
 	// This is legacy code from the previous example
