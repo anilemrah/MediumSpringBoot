@@ -54,7 +54,6 @@ Reach out to me at one of the following places!
 - Medium at <a href="https://medium.com/@anilemrah" target="_blank">`@anilemrah`</a>
 - Website at <a href="http://www.anilemrah.com" target="_blank">`www.anilemrah.com`</a>
 - Twitter at <a href="http://twitter.com/anilemrah_" target="_blank">`@anilemrah_`</a>
-- Insert more social links here.
 
 ---
 
