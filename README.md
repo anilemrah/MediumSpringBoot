@@ -1,4 +1,4 @@
-<a href="https://medium.com/@anilemrah"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" title="Spring Boot Tutorial" alt="Anil Emrah"></a>
+<a href="https://medium.com/@anilemrah"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png?v=3&s=100" title="Spring Boot Tutorial" alt="Anil Emrah"></a>
 
 [![Spring Boot Basic Rest Api CRUD Application](https://miro.medium.com/max/2160/1*Nwi2LUZ03ViEs_iZAhHeNw.png?v=3&s=200)](https://medium.com/@anilemrah/how-to-create-crud-rest-api-app-with-spring-boot-2e32b636652d)
 
