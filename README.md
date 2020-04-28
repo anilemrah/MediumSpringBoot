@@ -7,17 +7,15 @@
 
 ## Repo
 
-> This includes Spring Boot CRUD App step by step tutorial from scratch. 
+- This includes Spring Boot CRUD App step by step tutorial from scratch. 
 
 > You can read tutorials on <a href="https://medium.com/@anilemrah/" target="_blank">Medium</a>.
 
 ## Sections
 
-> You can read tutorials on <a href="https://medium.com/@anilemrah/" target="_blank">Medium</a>.
-
-> Spring Boot Basic Rest Api CRUD Application <a href="https://medium.com/@anilemrah/how-to-create-crud-rest-api-app-with-spring-boot-2e32b636652d" target="_blank">Medium</a>.
-> How To Create a Basic RestAPI Application with Spring Boot <a href="https://medium.com/@anilemrah/how-to-create-a-basic-restapi-application-with-spring-boot-f6da85802518" target="_blank">Medium</a>.
-> How to Create a Hello World Application With Spring Boot <a href="https://medium.com/better-programming/how-to-create-hello-world-application-with-spring-boot-spring-initializr-cdc4f97e3718" target="_blank">Medium</a>.
+- Spring Boot Basic Rest Api CRUD Application <a href="https://medium.com/@anilemrah/how-to-create-crud-rest-api-app-with-spring-boot-2e32b636652d" target="_blank">Medium</a>.
+- How To Create a Basic RestAPI Application with Spring Boot <a href="https://medium.com/@anilemrah/how-to-create-a-basic-restapi-application-with-spring-boot-f6da85802518" target="_blank">Medium</a>.
+- How to Create a Hello World Application With Spring Boot <a href="https://medium.com/better-programming/how-to-create-hello-world-application-with-spring-boot-spring-initializr-cdc4f97e3718" target="_blank">Medium</a>.
 
 
 
@@ -62,9 +60,7 @@ Reach out to me at one of the following places!
 
 ## Donations
 
-<a href="https://www.buymeacoffee.com/anilemrah" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 12px !important;width: 54px !important;" ></a>
-
-[![Support via BuyMeACoffee](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/anilemrah)
+[![Support via BuyMeACoffee](https://cdn.buymeacoffee.com/buttons/default-orange.png?s=50)](https://www.buymeacoffee.com/anilemrah)
 ---
 
 ## License
