@@ -1,11 +1,11 @@
 <!-- <a href="https://medium.com/@anilemrah"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png?v=3&s=100" title="Spring Boot Tutorial" alt="Anil Emrah"></a> -->
-# Spring Boot Rest API Tutoria From Scratch
+# Spring Boot Rest API Tutorial From Scratch
 
 [![Spring Boot Basic Rest Api CRUD Application](https://miro.medium.com/max/2160/1*Nwi2LUZ03ViEs_iZAhHeNw.png?v=3&s=200)](https://medium.com/@anilemrah/how-to-create-crud-rest-api-app-with-spring-boot-2e32b636652d)
 
-***Latest Post From That Repo***
+***Latest Post From That Repo - Spring Boot Rest API CRUD APP Tutorial***
 
-# Spring Boot Rest API CRUD APP Tutorial
+## Repo
 
 > This includes Spring Boot CRUD App step by step tutorial from scratch. 
 
@@ -63,6 +63,8 @@ Reach out to me at one of the following places!
 ## Donations
 
 <a href="https://www.buymeacoffee.com/anilemrah" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 12px !important;width: 54px !important;" ></a>
+
+[![Support via BuyMeACoffee](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/anilemrah)
 ---
 
 ## License
