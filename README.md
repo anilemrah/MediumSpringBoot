@@ -13,10 +13,10 @@
 
 ## Sections
 
-- Spring Boot Basic Rest Api CRUD Application <a href="https://medium.com/@anilemrah/how-to-create-crud-rest-api-app-with-spring-boot-2e32b636652d" target="_blank">Medium</a>.
-- How To Create a Basic RestAPI Application with Spring Boot <a href="https://medium.com/@anilemrah/how-to-create-a-basic-restapi-application-with-spring-boot-f6da85802518" target="_blank">Medium</a>.
-- How to Create a Hello World Application With Spring Boot <a href="https://medium.com/better-programming/how-to-create-hello-world-application-with-spring-boot-spring-initializr-cdc4f97e3718" target="_blank">Medium</a>.
-
+- Adding Logging Mechanism To Spring Boot App with Log4j2 <a href="https://medium.com/the-freelancer/adding-logging-mechanism-to-your-app-will-save-you-hours-lets-do-that-c38b49d65cbf" target="_blank">Read</a>.
+- Spring Boot Basic Rest Api CRUD Application <a href="https://medium.com/@anilemrah/how-to-create-crud-rest-api-app-with-spring-boot-2e32b636652d" target="_blank">Read</a>.
+- How To Create a Basic RestAPI Application with Spring Boot <a href="https://medium.com/@anilemrah/how-to-create-a-basic-restapi-application-with-spring-boot-f6da85802518" target="_blank">Read</a>.
+- How to Create a Hello World Application With Spring Boot <a href="https://medium.com/better-programming/how-to-create-hello-world-application-with-spring-boot-spring-initializr-cdc4f97e3718" target="_blank">Read</a>.
 
 
 ## Installation
